@@ -11,3 +11,4 @@ o dar?
 <!-- o dar daugiau -->
 o nmaujau
 kazkas naujo
+gauta
