@@ -10,3 +10,4 @@ o naujesne ar bus?
 o dar?
 <!-- o dar daugiau -->
 o nmaujau
+kazkas naujo
